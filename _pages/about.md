@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://astro.cornell.edu/'>Department of Astronomy, Cornell University</a>.
 profile:
   align: right
   image: prof_pic.jpg
@@ -12,7 +11,7 @@ profile:
     <p>Space Sciences Building 208</p>
     <p>Cornell University</p>
     <p>122 Sciences DR</p>
-    <p>Ithaca, NY 15</p>
+    <p>Ithaca, NY 14853</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,7 +31,7 @@ latest_posts:
 
 Hello, my name is Rodrigo and I help design and build state-of-the-art instruments to study the early universe and its evolution. 
 
-I joined Cornell in Fall 2021 as a PhD student. Since then, I've been working with Prof. Gordon Stacey and Prof. Michael Niemack on multiple aspects of Prime-cam, a cryogenic modular receiver for the CCAT/FYST telescope. In particular, I've been focused on the development of the Epoch of Reionization Spectrometer (EoR-Spec), one of Prime-cam's instrument modules. EoR-Spec is a carefully designed experiment intended to obtain tomographic maps of the early universe (z ∼ 3.5−8.0) through Line Intensity Mapping (LIM) of fluctuations in the aggregate clustering signal encoded in the 158 μm fine-structure line emission from ionized carbon [C II].  
+I joined Cornell in Fall 2021 as a PhD student. Since then, I've been working with [Gordon Stacey](https://astro.cornell.edu/gordon-j-stacey) and [Michael Niemack](https://physics.cornell.edu/michael-niemack) on multiple aspects of Prime-cam, a cryogenic modular receiver for [CCAT/FYST](https://www.ccatobservatory.org/). In particular, I've been focused on the development of the Epoch of Reionization Spectrometer (EoR-Spec), one of Prime-cam's instrument modules. EoR-Spec is a carefully designed experiment intended to obtain tomographic maps of the early universe (z ∼ 3.5−8.0) through Line Intensity Mapping (LIM) of fluctuations in the aggregate clustering signal encoded in the 158 μm fine-structure line emission from ionized carbon [C II].  
 
 I got my undergraduate degree in electronics engineering from the Pontifical Catholic University of Peru, where my research focused on radio astronomy instrumentation. Before joining Cornell, I worked for two years as site engineer at the Atacama Cosmology Telescope (ACT), a cosmology experiment located in northern Chile. 
 
