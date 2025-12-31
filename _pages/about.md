@@ -13,7 +13,7 @@ profile:
     <p>122 Sciences DR</p>
     <p>Ithaca, NY 14853</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -36,3 +36,5 @@ I joined Cornell in Fall 2021 as a PhD student. Since then, I've been working wi
 I got my undergraduate degree in electronics engineering from the Pontifical Catholic University of Peru, where my research focused on radio astronomy instrumentation. Before joining Cornell, I worked for two years as site engineer at the Atacama Cosmology Telescope (ACT), a cosmology experiment located in northern Chile. 
 
 Beyond work pursuits, I love running, hiking, camping, and anything that will get me outside and into nature.
+
+You can download the latest version of my CV using the link below.

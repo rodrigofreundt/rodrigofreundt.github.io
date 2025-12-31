@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rodrigo Freundt",
+    "label": "Scientist/Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rgf57@cornell.edu",
+    "phone": "(607) 262-3630",
+    "url": "https://rodrigofreundt.github.io/cv/",
+    "summary": "Experimental astrophysicist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "122 Sciences DR",
+      "postalCode": "NY 14853",
+      "city": "Ithaca",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "New York"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CCAT/FYST",
+      "position": "Graduate Research Assistant",
+      "startDate": "2021-08-22",
+      "summary": "Sub-mm instrumentation",
+      "highlights": [
+        "Working on multiple aspects of Prime-Cam, the main science modular receiver for the CCAT's Fred Young Submillimiter Telescope (FYST).",
+        "Ultimately responsible for the mechanical design of the Epoch of Reionization Spectrometer (EoR-Spec). The EoR-Spec has been designed to probe the redshifted [C II] 158 micron fine-structure line emission from aggregates of galaxies in the early universe (z = 3.5 to 8). It features a detector array of more than 6000 Kinetic Inductance Detectors (KIDs) and a cryogenic, scanning Fabry-Perot Interferometer (FPI) that covers the full spectral range of 210-420 GHz with a resolving power of R = 100"
+        ] 
+    },
+    {
+      "name": "Atacama Cosmology Telescope",
+      "position": "Site Engineer",
+      "startDate": "2019-10-22",
+      "endDate": "2021-07-31",
+      "summary": "CMB experiment managed by Princeton University (Princeton, NY)",
+      "highlights": [
+        "Ensured the continuous and smooth operation of all of the telescope's subsystems, such as a the cryogenic cooling system 90 mK.",
+        "Performed calibration procedures like the alignment of the receiver and the primary and secondary reflectors through high-precision photogrammetry. Carried out frequency response measurements of the detector arrays through Fourier Transform Spectroscopy.",
+        "Participated in the deployment of the Advance ACTPol low-frequency detector array (27/39 GHz). Assisted in the installation of the new chain of filters and cold silicon reimaging optics."]
     }
   ],
   "volunteer": [
@@ -47,8 +52,8 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Cornell University",
+      "location": "Ithaca, NY",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
