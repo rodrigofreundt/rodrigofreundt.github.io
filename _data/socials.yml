@@ -9,7 +9,7 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-cv_pdf: /assets/pdf/CV_rodrigo_freundt.pdf # path to your CV PDF file
+cv_pdf: https://github.com/rodrigofreundt/my_CV/blob/499b00b1dfc96a489744bc8d7a22a670417bafef/main.pdf # /assets/pdf/CV_rodrigo_freundt.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: rgf57@cornell.edu # your email address
