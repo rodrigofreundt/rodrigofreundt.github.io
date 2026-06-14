@@ -438,7 +438,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("https://raw.githubusercontent.com/rodrigofreundt/my_CV/master/main.pdf", "_blank");
+          window.open("/assets/pdf/CV_rodrigo_freundt.pdf", "_blank");
         },
       },{
         id: 'social-email',
