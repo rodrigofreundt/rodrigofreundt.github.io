@@ -491,6 +491,10 @@ Our most active contributors are welcome to join the maintainers team. If you ar
   </picture>
 </a>
 
+## CV Sync
+
+The CV PDF at `assets/pdf/CV_rodrigo_freundt.pdf` is automatically kept up to date via a GitHub Actions workflow in the [`my_CV`](https://github.com/rodrigofreundt/my_CV) repo. No manual file copying is needed — pushing a new commit there triggers the sync.
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
