@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -445,14 +452,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72%67%66%35%37@%63%6F%72%6E%65%6C%6C.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/rodrigofreundt", "_blank");
+          window.open("mailto:%72%6F%64%72%69%67%6F.%66%72%65%75%6E%64%74@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
